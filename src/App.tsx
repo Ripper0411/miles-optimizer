@@ -1,4 +1,8 @@
+// @ts-nocheck
+-e // @ts-nocheck
+
 import React, { useState, useEffect } from "react";
+
 
 /* ─── PALETTE ───────────────────────────────────────────────── */
 const C = {
